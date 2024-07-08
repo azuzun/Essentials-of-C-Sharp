@@ -1,0 +1,1 @@
+//  Shift + Option + A for comment selcted code ->	/*	*/
